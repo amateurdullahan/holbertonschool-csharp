@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace _3_writeline
+namespace _4_print_integer
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\"Programming is like building a multilingual puzzle");
+		int number = 972;
+        Console.WriteLine("{0} Mission Street", number);
         }
     }
 }
