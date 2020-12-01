@@ -1,12 +1,11 @@
-﻿using System;
+﻿
+using System;
 
-namespace _6_print_string
+class Program
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+	static void Main(string[] args)
+	{
+		string str = "Holberton School";
+        Console.Write("{0}{0}{0}\n{1}\n", str, str.Substring(0,9));
         }
-    }
 }
