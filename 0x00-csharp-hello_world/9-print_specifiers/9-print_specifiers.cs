@@ -6,6 +6,7 @@ class Program
 	{
 		double percent = .7553;
 		double currency = 98765.4321;
-		// YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE.
+		Console.WriteLine("Percent: {0} tip", percent.ToString("P", System.Globalization.CultureInfo.CreateSpecificCulture("en-US.utf-8")));
+        Console.WriteLine("Currency: {0}", currency.ToString("C", System.Globalization.CultureInfo.CreateSpecificCulture("en-US.utf-8")));
 	}
 }
