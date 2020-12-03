@@ -12,19 +12,13 @@ class MyQueue
         }
         else
         {
-            Console.WriteLine("Top item: {0}", aQueue.Peek());
+            Console.WriteLine("First item: {0}", aQueue.Peek());
         }
-        if (aQueue.Contains(search))
+        bool tf = aQueue.Contains(search);
+        Console.WriteLine("Queue contain \"{0}\": {1}", search, tf);
+        while (aQueue.Count != 0 && aQueue.Contains(search))
         {
-            Console.WriteLine("Queue contains \"{0}\": True", search);
-            while (aQueue.Count != 0 && aQueue.Contains(search))
-            {
-                aQueue.Dequeue();
-            }
-        }
-        else
-        {
-            Console.WriteLine("Queue contains \"{0}\": False", search);
+            aQueue.Dequeue();
         }
         aQueue.Enqueue(newItem);
         return aQueue;
