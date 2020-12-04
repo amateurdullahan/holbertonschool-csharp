@@ -1,14 +1,26 @@
 ﻿using System;
-
-namespace _14_rectangular_array
-{
-    class Program
+class Program
     {
-        static void Main(string[] args)
+    static void Main(string[] args)
+    {
+        for (int i = 0; i < 5; i++)
         {
-            int w = 5;
-            int h = 5;
-            
+            for (int j = 0; j < 5; j++)
+            {
+                if (i == 2 && j == 2)
+                {
+                    Console.Write("1");
+                }
+                else
+                {
+                    Console.Write("0");
+                }
+                if (j < 4)
+                {
+                    Console.Write(" ");
+                }
+            }
+            Console.WriteLine();
         }
     }
 }

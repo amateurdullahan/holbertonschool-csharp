@@ -9,7 +9,7 @@ class Dictionary
         string name = "None";
         foreach (KeyValuePair<string, int> val in myList)
         {
-            if (val.Value > max)
+            if (val.Value >= max)
             {
                 max = val.Value;
                 name = val.Key;
