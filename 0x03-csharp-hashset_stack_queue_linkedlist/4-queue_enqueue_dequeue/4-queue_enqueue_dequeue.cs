@@ -15,7 +15,7 @@ class MyQueue
             Console.WriteLine("First item: {0}", aQueue.Peek());
         }
         bool tf = aQueue.Contains(search);
-        Console.WriteLine("Queue contain \"{0}\": {1}", search, tf);
+        Console.WriteLine("Queue contains \"{0}\": {1}", search, tf);
         while (aQueue.Count != 0 && aQueue.Contains(search))
         {
             aQueue.Dequeue();

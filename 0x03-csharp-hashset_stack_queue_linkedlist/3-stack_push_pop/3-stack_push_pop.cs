@@ -15,7 +15,7 @@ class MyStack
             Console.WriteLine("Top item: {0}", aStack.Peek());
         }
         bool tf = aStack.Contains(search);
-        Console.WriteLine("Stack contain \"{0}\": {1}", search, tf);
+        Console.WriteLine("Stack contains \"{0}\": {1}", search, tf);
         while (aStack.Count != 0 && aStack.Contains(search))
         {
             aStack.Pop();
