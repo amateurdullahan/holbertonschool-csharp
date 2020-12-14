@@ -15,7 +15,7 @@ class List
             catch (ArgumentOutOfRangeException)
             {
                 
-                break;
+                return i;
             }
         }
         return i;
