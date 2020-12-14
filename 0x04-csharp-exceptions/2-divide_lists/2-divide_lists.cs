@@ -5,7 +5,7 @@ class List
 {
     public static List<int> Divide(List<int> list1, List<int> list2, int listLength)
     {
-        List<int> nl = new list<int>();
+        List<int> nl = new List<int>();
         int result = 0;
         for (int i = 0; i < listLength; i++)
         {
