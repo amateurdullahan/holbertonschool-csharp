@@ -1,0 +1,5 @@
+/home/dullahan/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net5.0/3-magnitude.csprojAssemblyReference.cache
+/home/dullahan/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net5.0/3-magnitude.GeneratedMSBuildEditorConfig.editorconfig
+/home/dullahan/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net5.0/3-magnitude.AssemblyInfoInputs.cache
+/home/dullahan/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net5.0/3-magnitude.AssemblyInfo.cs
+/home/dullahan/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net5.0/3-magnitude.csproj.CoreCompileInputs.cache
