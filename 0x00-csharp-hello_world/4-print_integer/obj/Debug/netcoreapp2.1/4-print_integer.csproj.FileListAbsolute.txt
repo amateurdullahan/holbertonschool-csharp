@@ -1,0 +1,12 @@
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\bin\Debug\netcoreapp2.1\4-print_integer.deps.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\bin\Debug\netcoreapp2.1\4-print_integer.runtimeconfig.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\bin\Debug\netcoreapp2.1\4-print_integer.runtimeconfig.dev.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\bin\Debug\netcoreapp2.1\4-print_integer.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\bin\Debug\netcoreapp2.1\4-print_integer.pdb
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp2.1\4-print_integer.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp2.1\4-print_integer.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp2.1\4-print_integer.AssemblyInfo.cs
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp2.1\4-print_integer.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp2.1\4-print_integer.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp2.1\4-print_integer.pdb
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\4-print_integer\obj\Debug\netcoreapp2.1\4-print_integer.genruntimeconfig.cache

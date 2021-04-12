@@ -1,0 +1,16 @@
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\bin\Debug\net5.0\8-print_variables.exe
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\bin\Debug\net5.0\8-print_variables.deps.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\bin\Debug\net5.0\8-print_variables.runtimeconfig.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\bin\Debug\net5.0\8-print_variables.runtimeconfig.dev.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\bin\Debug\net5.0\8-print_variables.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\bin\Debug\net5.0\ref\8-print_variables.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\bin\Debug\net5.0\8-print_variables.pdb
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\obj\Debug\net5.0\8-print_variables.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\obj\Debug\net5.0\8-print_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\obj\Debug\net5.0\8-print_variables.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\obj\Debug\net5.0\8-print_variables.AssemblyInfo.cs
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\obj\Debug\net5.0\8-print_variables.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\obj\Debug\net5.0\8-print_variables.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\obj\Debug\net5.0\ref\8-print_variables.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\obj\Debug\net5.0\8-print_variables.pdb
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x00-csharp-hello_world\8-print_variables\obj\Debug\net5.0\8-print_variables.genruntimeconfig.cache
