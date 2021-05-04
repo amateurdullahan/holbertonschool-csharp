@@ -3,9 +3,7 @@ using System.Collections.Generic;
 
 class Obj
 {
-    /// <summary>
-    /// Check obj type :)
-    /// </summary>
+    /// <summary> Check obj type :) /// </summary>
     public static bool IsOfTypeInt(object obj)
     {
         if (obj.GetType() == typeof(int))

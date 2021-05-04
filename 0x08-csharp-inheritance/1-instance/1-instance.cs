@@ -1,6 +1,5 @@
 ﻿using System;
 
-/// <summary> utility functions </summary>
 class Obj
 {
     /// <summary> checks if array </summary>
