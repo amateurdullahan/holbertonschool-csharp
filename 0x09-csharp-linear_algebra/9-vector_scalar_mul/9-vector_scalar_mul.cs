@@ -1,7 +1,9 @@
 ﻿using System;
 
+/// <summary> function for math </summary>
 class VectorMath
 {
+    /// <summary> function for math </summary>
     public static double[] Multiply(double[] vector, double scalar)
     {
         if (vector.Length == 2)

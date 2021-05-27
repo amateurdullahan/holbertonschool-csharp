@@ -1,7 +1,9 @@
 ﻿using System;
 
+/// <summary> function for math </summary>
 class MatrixMath
 {
+    /// <summary> function for math </summary>
     public static double[,] Add(double[,] matrix1, double[,] matrix2)
     {
         if (matrix1.Length != matrix2.Length || matrix1.GetLength(0) != matrix2.GetLength(0))

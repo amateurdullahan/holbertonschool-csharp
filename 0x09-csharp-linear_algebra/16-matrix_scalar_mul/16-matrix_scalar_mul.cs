@@ -1,7 +1,9 @@
 ﻿using System;
 
+/// <summary> function for math </summary>
 class MatrixMath
 {
+    /// <summary> function for math </summary>
     public static double[,] MultiplyScalar(double[,] matrix, double scalar)
     {
         if (matrix.GetLength(0) == 2 && matrix.GetLength(1) == 2)
