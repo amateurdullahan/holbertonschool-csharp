@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>_12_dot_product</RootNamespace>
+    <RootNamespace>_33_inverse_2D</RootNamespace>
   </PropertyGroup>
 
 </Project>
