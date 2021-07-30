@@ -1,11 +1,13 @@
 ﻿using System;
 
+///<summary>lorem ipsum</summary>
 public class Player
 {
     string name;
     float maxHp;
     float hp;
 
+    ///<summary>lorem ipsum</summary>
     public Player(string name = "Player", float maxHp = 100f)
     {
         this.name = name;
@@ -21,13 +23,14 @@ public class Player
             this.hp = maxHp;
         }
     }
+    ///<summary>lorem ipsum</summary>
     public void PrintHealth()
     {
         Console.WriteLine($"{name} has {hp} / {maxHp} health");
     }
-
+    ///<summary>lorem ipsum</summary>
     public delegate void CalculateHealth(float amount);
-
+    ///<summary>lorem ipsum</summary>
     public void TakeDamage(float damage)
     {
         if (damage < 0)
@@ -37,7 +40,7 @@ public class Player
         Console.WriteLine($"{name} takes {damage} damage!");
         ValidateHP(hp - damage);
     }
-
+    ///<summary>lorem ipsum</summary>
     public void HealDamage(float heal)
     {
         if (heal < 0)
@@ -47,7 +50,7 @@ public class Player
         Console.WriteLine($"{name} heals {heal} HP!");
         ValidateHP(hp + heal);
     }
-
+    ///<summary>lorem ipsum</summary>
     public void ValidateHP(float newHp)
     {
         if (newHp < 0)
@@ -61,6 +64,7 @@ public class Player
             hp = newHp;
         }
     }
+    ///<summary>lorem ipsum</summary>
     public float ApplyModifier(float baseValue, Modifier modifier)
     {
         if (modifier == Modifier.Weak)
@@ -71,9 +75,9 @@ public class Player
             return (baseValue * 1.5f);
     }
 }
-
+///<summary>lorem ipsum</summary>
 public delegate float CalculateModifier(float baseValue, Modifier modifier);
-
+///<summary>lorem ipsum</summary>
 public enum Modifier
 {
     Weak,
