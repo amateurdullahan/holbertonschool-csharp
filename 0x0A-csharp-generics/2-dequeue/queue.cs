@@ -43,9 +43,9 @@ class Queue<T>
         public T value = default(T);
         public Node next;
 
-        public Node (T Value)
+        public Node (T newValue)
         {
-            this.value = value;
+            this.value = newValue;
         }
     }
 
