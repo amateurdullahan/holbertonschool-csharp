@@ -80,7 +80,10 @@ public delegate float CalculateModifier(float baseValue, Modifier modifier);
 ///<summary>lorem ipsum</summary>
 public enum Modifier
 {
+    ///<summary>lorem ipsum</summary>
     Weak,
+    ///<summary>lorem ipsum</summary>
     Base,
+    ///<summary>lorem ipsum</summary>
     Strong
 }
