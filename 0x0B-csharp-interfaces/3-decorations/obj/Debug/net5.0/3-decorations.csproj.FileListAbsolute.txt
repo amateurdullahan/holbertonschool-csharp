@@ -1,0 +1,16 @@
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\obj\Debug\net5.0\3-decorations.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\obj\Debug\net5.0\3-decorations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\obj\Debug\net5.0\3-decorations.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\obj\Debug\net5.0\3-decorations.AssemblyInfo.cs
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\obj\Debug\net5.0\3-decorations.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\bin\Debug\net5.0\3-decorations.exe
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\bin\Debug\net5.0\3-decorations.deps.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\bin\Debug\net5.0\3-decorations.runtimeconfig.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\bin\Debug\net5.0\3-decorations.runtimeconfig.dev.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\bin\Debug\net5.0\3-decorations.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\bin\Debug\net5.0\ref\3-decorations.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\bin\Debug\net5.0\3-decorations.pdb
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\obj\Debug\net5.0\3-decorations.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\obj\Debug\net5.0\ref\3-decorations.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\obj\Debug\net5.0\3-decorations.pdb
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\3-decorations\obj\Debug\net5.0\3-decorations.genruntimeconfig.cache

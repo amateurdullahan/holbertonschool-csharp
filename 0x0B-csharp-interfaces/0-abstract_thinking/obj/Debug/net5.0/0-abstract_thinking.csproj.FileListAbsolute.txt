@@ -1,0 +1,16 @@
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\bin\Debug\net5.0\0-abstract_thinking.exe
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\bin\Debug\net5.0\0-abstract_thinking.deps.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\bin\Debug\net5.0\0-abstract_thinking.runtimeconfig.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\bin\Debug\net5.0\0-abstract_thinking.runtimeconfig.dev.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\bin\Debug\net5.0\0-abstract_thinking.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\bin\Debug\net5.0\ref\0-abstract_thinking.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\bin\Debug\net5.0\0-abstract_thinking.pdb
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\obj\Debug\net5.0\0-abstract_thinking.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\obj\Debug\net5.0\0-abstract_thinking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\obj\Debug\net5.0\0-abstract_thinking.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\obj\Debug\net5.0\0-abstract_thinking.AssemblyInfo.cs
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\obj\Debug\net5.0\0-abstract_thinking.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\obj\Debug\net5.0\0-abstract_thinking.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\obj\Debug\net5.0\ref\0-abstract_thinking.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\obj\Debug\net5.0\0-abstract_thinking.pdb
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\0-abstract_thinking\obj\Debug\net5.0\0-abstract_thinking.genruntimeconfig.cache

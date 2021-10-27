@@ -1,0 +1,16 @@
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\net5.0\1-user_interface.exe
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\net5.0\1-user_interface.deps.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\net5.0\1-user_interface.runtimeconfig.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\net5.0\1-user_interface.runtimeconfig.dev.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\net5.0\1-user_interface.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\net5.0\ref\1-user_interface.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\net5.0\1-user_interface.pdb
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\net5.0\1-user_interface.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\net5.0\1-user_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\net5.0\1-user_interface.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\net5.0\1-user_interface.AssemblyInfo.cs
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\net5.0\1-user_interface.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\net5.0\1-user_interface.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\net5.0\ref\1-user_interface.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\net5.0\1-user_interface.pdb
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\net5.0\1-user_interface.genruntimeconfig.cache
