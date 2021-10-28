@@ -1,0 +1,16 @@
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\net5.0\1-enqueue.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\net5.0\1-enqueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\net5.0\1-enqueue.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\net5.0\1-enqueue.AssemblyInfo.cs
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\net5.0\1-enqueue.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\net5.0\1-enqueue.exe
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\net5.0\1-enqueue.deps.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\net5.0\1-enqueue.runtimeconfig.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\net5.0\1-enqueue.runtimeconfig.dev.json
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\net5.0\1-enqueue.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\net5.0\ref\1-enqueue.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\net5.0\1-enqueue.pdb
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\net5.0\1-enqueue.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\net5.0\ref\1-enqueue.dll
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\net5.0\1-enqueue.pdb
+C:\Users\dylan\source\repos\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\net5.0\1-enqueue.genruntimeconfig.cache
