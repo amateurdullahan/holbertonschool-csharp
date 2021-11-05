@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace InventoryManagement.Tests
+namespace InventoryManagment.Tests
 {
     public class Tests
     {
