@@ -1,17 +1,21 @@
 using System;
+using System.Collections.Generic;
 
-class Item : BaseClass
+namespace InventoryLibrary
 {
-    string name;
-    string description;
-    float price;
-    List<string> tags;
-
-    public Item(string name, string description=null, float price=-1, List<string> tags=null)
+    public class Item : BaseClass
     {
-        this.name = name;
-        this.description = description;
-        this.price = price;
-        this.tags = tags;
+        public string name { get; set; }
+        public string description { get; set; }
+        public float? price { get; set; }
+        public List<string> tags { get; set; }
+
+        public Item(string name, float? price, string description = null, List<string> tags = null)
+        {
+            this.name = name;
+            this.description = description;
+            this.tags = tags;
+            this.price = price;
+        }
     }
 }

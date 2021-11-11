@@ -1,11 +1,14 @@
 using System;
 
-class User : BaseClass
+namespace InventoryLibrary
 {
-    string name;
-
-    public User(string name)
+    public class User : BaseClass
     {
-        this.name = name;
+        public string name { get; set; }
+
+        public User(string name)
+        {
+            this.name = name;
+        }
     }
 }

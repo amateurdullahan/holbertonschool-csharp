@@ -1,15 +1,17 @@
 ﻿using System;
 
-class BaseClass
+namespace InventoryLibrary
 {
-    string id;
-    DateTime date_created;
-    DateTime date_updated;
-
-    public BaseClass()
+    public class BaseClass
     {
-        this.id = System.Guid.NewGuid().ToString();
-        this.date_created = this.date_updated = DateTime.Now;
-    }  
-    
+        public string id { get; set; }
+        public DateTime date_created { get; set; }
+        public DateTime date_updated { get; set; }
+
+        public BaseClass()
+        {
+            this.id = System.Guid.NewGuid().ToString();
+            this.date_created = this.date_updated = DateTime.Now;
+        }  
+    }
 }
